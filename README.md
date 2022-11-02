@@ -9,4 +9,6 @@
 - Perlihatkan implementasi konsep diatas pada README ini.
 - Gunakan nama *class* yang sudah ada sebagai tema dari project ini.
 
-Catatan: Program tidak harus dapat dijalankan, cukup ditunjukkan implementasi konsepnya saja.
+Catatan: Program tidak harus dapat dijalankan, cukup ditunjukkan implementasi konsepnya s Ija.
+
+# Inheritance
